@@ -47,6 +47,9 @@ class CruiseMapper:
 
             MeinSchiff1 = list(filter(lambda x: x.imo == 9783564))[0]
 
+        You may then pass that object into fill_ship() to retrieve additional
+        data from the ship.json endpoint.
+
         Returns:
             List[Ship]: A list of Ship objects for all ships
         """
