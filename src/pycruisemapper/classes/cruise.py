@@ -1,4 +1,6 @@
-from typing import Optional
+from typing import Optional, List, Tuple
+
+from datetime import datetime
 
 
 class Cruise:
