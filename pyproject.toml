@@ -20,4 +20,4 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://kumig.it/kumitterer/pycruisemapper"
-"Bug Tracker" = "https://kumig.it/kumitterer/"
+"Bug Tracker" = "https://kumig.it/kumitterer/pycruisemapper/issues"
