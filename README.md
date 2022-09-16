@@ -6,6 +6,9 @@ This is a very basic implementation, and it might stay like this, but I still
 wanted to share it in case anyone finds it useful. I can't promise that I will
 keep this package updated or that it's going to work forever as is, though.
 
+I wanted to keep it simple, so this package has no dependencies outside the
+standard library. Tested on Python 3.10.6 only, but should work on any >= 3.8.
+
 ## Basic Usage
 
 ```python
